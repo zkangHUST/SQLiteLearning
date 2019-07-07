@@ -1,0 +1,15 @@
+*.sln
+*.db
+*.pdb
+*.exe
+*.obj
+*.tlog
+*.vcxproj
+*.log
+*.ipch
+*.idb
+*.vcxproj.filters
+*.vcxproj.user
+*.ilk
+*.suo
+src/sqlite-amalgamation-3280000.zip
